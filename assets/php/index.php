@@ -1,5 +1,5 @@
 <?php
-$to = "dota.bundle@bk.ru";
+$to = "sitnd@bk.ru";
 $from = trim($_POST['mail']);
 $message = htmlspecialchars($_POST['phone']);
 $message = urldecode($message);
